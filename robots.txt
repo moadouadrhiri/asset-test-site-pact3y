@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asset-test-site-pact3y.pages.dev/sitemap.xml
